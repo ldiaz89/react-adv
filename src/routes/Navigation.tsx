@@ -6,6 +6,7 @@ export const Navigation = () => {
   return (
     <BrowserRouter>
       <div className="main-layout">
+        <p>test</p>
         <nav>
           <img src={logo} alt="" />
           <ul>
